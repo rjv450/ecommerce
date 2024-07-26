@@ -11,8 +11,9 @@ import LayoutWithNavBar from './components/LayoutWithNavBar';
 import ProductManagementDashboard from './pages/ProductManagement';
 import Checkout from './components/Cart';
 import CartUpdater from './components/CartUpdater';
-function App() {
 
+
+function App() {;
 
   return (
     <div className="App">

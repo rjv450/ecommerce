@@ -1,0 +1,26 @@
+.productDetailContainer {
+    padding: 20px;
+}
+
+.productImage {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.colorChip {
+    cursor: pointer;
+}
+
+.plusMinusButton {
+    background-color: #f0f0f0;
+    border-radius: 4px;
+    padding: 4px;
+    font-size: 18px;
+}
+
+.quantityDisplay {
+    margin: 0 10px;
+    font-size: 18px;
+}
